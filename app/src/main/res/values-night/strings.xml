@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nombre">nombre</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="convertir_perfil">CONVERTIR PERFIL</string>
+    <string name="cambia_tu_perfil_a_artista">CAMBIA TU PERFIL A ARTISTA</string>
+    <string name="confirmar_ubicacion">CONFIRMAR UBICACION</string>
+    <string name="select_files_to_upload">Select Files to Upload</string>
+</resources>

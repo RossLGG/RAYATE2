@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "744329383141",
+    "project_id": "rayate-6c73a",
+    "storage_bucket": "rayate-6c73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744329383141:android:fe1a0910e819682089180c",
+        "android_client_info": {
+          "package_name": "com.martin.rayate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744329383141-e7ra5u3qm00190n713bfsfd7oe2aft0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6NrmDFAIRUJNirqYF9DbhVLh7Q8tGuOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744329383141-e7ra5u3qm00190n713bfsfd7oe2aft0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
